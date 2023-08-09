@@ -1,1 +1,1 @@
-Building my first personal portfolio after reading javascript
+Building my first personal portfolio after reading javascript.
